@@ -1,0 +1,45 @@
+[18-May-2015 07:18:22 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home3/codebrew/public_html/projects/Foodi/admin/list_cuisine.php on line 160
+[18-May-2015 07:19:29 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home3/codebrew/public_html/projects/Foodi/admin/list_cuisine.php on line 160
+[18-May-2015 07:19:37 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home3/codebrew/public_html/projects/Foodi/admin/list_cuisine.php on line 160
+[19-May-2015 07:43:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/Foodi/admin/list_user.php on line 225
+[19-May-2015 08:01:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/Foodi/admin/list_user.php on line 163
+[19-May-2015 08:01:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/Foodi/admin/list_user.php on line 163
+[19-May-2015 08:01:41 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/Foodi/admin/list_user.php on line 163
+[19-May-2015 08:01:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/Foodi/admin/list_user.php on line 163
+[19-May-2015 08:01:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/Foodi/admin/list_user.php on line 163
+[19-May-2015 08:04:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/Foodi/admin/list_user.php on line 164
+[19-May-2015 08:04:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/Foodi/admin/list_user.php on line 164
+[25-May-2015 05:02:18 America/Chicago] PHP Notice:  Undefined variable: result in /home3/codebrew/public_html/projects/Foodi/admin/user_hangouts.php on line 173
+[25-May-2015 05:02:18 America/Chicago] PHP Notice:  Undefined variable: result in /home3/codebrew/public_html/projects/Foodi/admin/user_hangouts.php on line 176
+[25-May-2015 05:02:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/Foodi/admin/user_hangouts.php on line 176
+[25-May-2015 08:00:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/codebrew/public_html/projects/Foodi/admin/user_hangouts.php on line 187
+[26-May-2015 06:04:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/Foodi/admin/user_followers.php on line 205
+[15-Jul-2015 01:12:46 America/Chicago] PHP Warning:  include(../phpInclude/dbconnection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/xtra/index.php on line 3
+[15-Jul-2015 01:12:46 America/Chicago] PHP Warning:  include(../phpInclude/dbconnection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/xtra/index.php on line 3
+[15-Jul-2015 01:12:46 America/Chicago] PHP Warning:  include(): Failed opening '../phpInclude/dbconnection.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/codebrew/public_html/projects/rebond/xtra/index.php on line 3
+[15-Jul-2015 01:20:38 America/Chicago] PHP Warning:  include(../phpInclude/dbconnection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php on line 3
+[15-Jul-2015 01:20:38 America/Chicago] PHP Warning:  include(../phpInclude/dbconnection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php on line 3
+[15-Jul-2015 01:20:38 America/Chicago] PHP Warning:  include(): Failed opening '../phpInclude/dbconnection.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php on line 3
+[15-Jul-2015 01:20:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php:3) in /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php on line 371
+[15-Jul-2015 01:20:45 America/Chicago] PHP Warning:  include(../phpInclude/dbconnection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php on line 3
+[15-Jul-2015 01:20:45 America/Chicago] PHP Warning:  include(../phpInclude/dbconnection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php on line 3
+[15-Jul-2015 01:20:45 America/Chicago] PHP Warning:  include(): Failed opening '../phpInclude/dbconnection.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php on line 3
+[15-Jul-2015 01:20:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php:3) in /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php on line 371
+[15-Jul-2015 01:33:01 America/Chicago] PHP Warning:  require_once(php_include/db_connection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php on line 2
+[15-Jul-2015 01:33:01 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'php_include/db_connection.php' (include_path='.:/opt/php54/lib/php') in /home3/codebrew/public_html/projects/rebond/xtra/dashboard.php on line 2
+[15-Jul-2015 04:47:44 America/Chicago] PHP Warning:  include(../phpInclude/dbconnection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/admin/questions.php on line 3
+[15-Jul-2015 04:47:44 America/Chicago] PHP Warning:  include(../phpInclude/dbconnection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/admin/questions.php on line 3
+[15-Jul-2015 04:47:44 America/Chicago] PHP Warning:  include(): Failed opening '../phpInclude/dbconnection.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/codebrew/public_html/projects/rebond/admin/questions.php on line 3
+[15-Jul-2015 04:47:44 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home3/codebrew/public_html/projects/rebond/admin/questions.php on line 9
+[15-Jul-2015 04:49:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/rebond/admin/questions.php on line 137
+[15-Jul-2015 04:50:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/rebond/admin/questions.php on line 26
+[15-Jul-2015 04:51:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/rebond/admin/questions.php on line 26
+[15-Jul-2015 05:24:09 America/Chicago] PHP Warning:  include(../phpInclude/dbconnection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/admin/edit_cuisine_function.php on line 3
+[15-Jul-2015 05:24:09 America/Chicago] PHP Warning:  include(../phpInclude/dbconnection.php): failed to open stream: No such file or directory in /home3/codebrew/public_html/projects/rebond/admin/edit_cuisine_function.php on line 3
+[15-Jul-2015 05:24:09 America/Chicago] PHP Warning:  include(): Failed opening '../phpInclude/dbconnection.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/codebrew/public_html/projects/rebond/admin/edit_cuisine_function.php on line 3
+[15-Jul-2015 05:24:09 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home3/codebrew/public_html/projects/rebond/admin/edit_cuisine_function.php on line 11
+[15-Jul-2015 05:46:51 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous' in /home3/codebrew/public_html/projects/rebond/admin/edit_question_function.php:9
+Stack trace:
+#0 /home3/codebrew/public_html/projects/rebond/admin/edit_question_function.php(9): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/rebond/admin/edit_question_function.php on line 9

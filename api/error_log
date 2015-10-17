@@ -1,0 +1,4 @@
+[15-Jul-2015 02:50:48 America/Chicago] PHP Warning:  Missing argument 2 for GeneralFunctions::get_feeds(), called in /home3/codebrew/public_html/projects/rebond/api/get_feeds.php on line 29 and defined in /home3/codebrew/public_html/projects/rebond/classes/GeneralFunctions.php on line 75
+[17-Jul-2015 00:57:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/rebond/api/get_post_detail.php on line 55
+[17-Jul-2015 01:56:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/codebrew/public_html/projects/rebond/classes/GeneralFunctions.php on line 281
+[17-Jul-2015 04:54:59 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home3/codebrew/public_html/projects/rebond/classes/GeneralFunctions.php on line 246

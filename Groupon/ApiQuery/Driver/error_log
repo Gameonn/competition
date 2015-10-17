@@ -1,0 +1,2 @@
+[21-Jan-2015 14:29:49 America/Chicago] PHP Fatal error:  Class 'Netcrash\Groupon\ApiQuery\Driver\GDriver' not found in /home1/nolyapps/public_html/api/Groupon/ApiQuery/Driver/GTest.php on line 54
+[26-Jan-2015 11:35:44 America/Chicago] PHP Fatal error:  Class 'Netcrash\Groupon\ApiQuery\Driver\GDriver' not found in /home1/nolyapps/public_html/api/Groupon/ApiQuery/Driver/GCurl.php on line 53

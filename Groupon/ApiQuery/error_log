@@ -1,0 +1,5 @@
+[30-Sep-2014 09:03:14 America/Chicago] PHP Fatal error:  Class 'Netcrash\Groupon\ApiQuery\GQuery' not found in /home3/codebrew/public_html/projects/groupon/Groupon/ApiQuery/Deals.php on line 51
+[13-Jan-2015 05:44:33 America/Chicago] PHP Fatal error:  Class 'Netcrash\Groupon\ApiQuery\GQuery' not found in /home1/nolyapps/public_html/api/Groupon/ApiQuery/Deals.php on line 51
+[18-Jan-2015 20:30:37 America/Chicago] PHP Fatal error:  Class 'Netcrash\Groupon\ApiQuery\GQuery' not found in /home1/nolyapps/public_html/api/Groupon/ApiQuery/Divisions.php on line 48
+[21-Feb-2015 04:54:39 America/Chicago] PHP Fatal error:  Class 'Netcrash\Groupon\ApiQuery\GQuery' not found in /home1/nolyapps/public_html/api/Groupon/ApiQuery/Divisions.php on line 48
+[02-Mar-2015 06:10:13 America/Chicago] PHP Fatal error:  Class 'Netcrash\Groupon\ApiQuery\GQuery' not found in /home1/nolyapps/public_html/api/Groupon/ApiQuery/Deals.php on line 51
